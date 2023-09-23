@@ -1,0 +1,16 @@
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\bin\Debug\LOGICA.dll.config
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\bin\Debug\LOGICA.xml
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\bin\Debug\DATOS.dll
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\bin\Debug\DATOS.pdb
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\bin\Debug\DATOS.xml
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\bin\Debug\DATOS.dll.config
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\obj\Debug\LOGICA.vbproj.AssemblyReference.cache
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\obj\Debug\LOGICA.Resources.resources
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\obj\Debug\LOGICA.vbproj.GenerateResource.cache
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\obj\Debug\LOGICA.vbproj.CoreCompileInputs.cache
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\obj\Debug\LOGICA.vbproj.CopyComplete
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\obj\Debug\LOGICA.xml
+C:\Users\PC R1\Documents\programacion\TBD\NORTHVB\LOGICA\obj\Debug\LOGICA.pdb
